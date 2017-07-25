@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26430.16
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatalogAPI", "CatalogAPI\CatalogAPI.csproj", "{6505FE9C-7EA4-4AAF-8E58-6BD8CBD2B9A0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CartAPI", "CartAPI\CartAPI.csproj", "{16A1F6C5-8ED3-41D6-9A88-C9406C9F64C1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{6505FE9C-7EA4-4AAF-8E58-6BD8CBD2B9A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6505FE9C-7EA4-4AAF-8E58-6BD8CBD2B9A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6505FE9C-7EA4-4AAF-8E58-6BD8CBD2B9A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16A1F6C5-8ED3-41D6-9A88-C9406C9F64C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16A1F6C5-8ED3-41D6-9A88-C9406C9F64C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16A1F6C5-8ED3-41D6-9A88-C9406C9F64C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16A1F6C5-8ED3-41D6-9A88-C9406C9F64C1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
